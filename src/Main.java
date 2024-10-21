@@ -5,6 +5,8 @@ public class Main {
         System.out.println("tester igen");
 
         System.out.println("tester tester");
+        System.out.println("blbalblablbl");
+
     }
 
 }
